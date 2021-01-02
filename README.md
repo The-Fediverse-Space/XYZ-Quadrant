@@ -1,2 +1,2 @@
-# XYZ-Quadrant
+# XYZ Quadrant
 The Fediverse Space
